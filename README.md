@@ -12,7 +12,8 @@
 ##
 
 - 🌱 Esdutante de Engenharia Mecatrônica
-- ✨ Paixão por front-end e back-end
+- ✨ Paixão por desenvolvimento fullstack
+- 📖 Gosto de aprender tudo
 - 💬 Não ensite em me questionar qualquer coisa, estou sempre dispoto a ajudar!
 - 😄 Pronouns: ele/dele
 
