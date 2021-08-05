@@ -15,7 +15,7 @@
 - ✨ Paixão por desenvolvimento fullstack
 - 📖 Gosto de aprender tudo
 - 💬 Não exite em me questionar qualquer coisa, estou sempre disposto a ajudar!
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ##
 
