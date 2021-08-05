@@ -14,7 +14,7 @@
 - 🌱 Esdutante de Engenharia Mecatrônica
 - ✨ Paixão por desenvolvimento fullstack
 - 📖 Gosto de aprender tudo
-- 💬 Não ensite em me questionar qualquer coisa, estou sempre dispoto a ajudar!
+- 💬 Não ensite em me questionar qualquer coisa, estou sempre disposto a ajudar!
 - 😄 Pronouns: ele/dele
 
 ##
