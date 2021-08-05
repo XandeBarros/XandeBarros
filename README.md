@@ -14,13 +14,13 @@
 - 🌱 Esdutante de Engenharia Mecatrônica
 - ✨ Paixão por desenvolvimento fullstack
 - 📖 Gosto de aprender tudo
-- 💬 Não ensite em me questionar qualquer coisa, estou sempre disposto a ajudar!
+- 💬 Não exite em me questionar qualquer coisa, estou sempre disposto a ajudar!
 - 😄 Pronouns: ele/dele
 
 ##
 
 <div style="display: inline_block">
-  <img align="center" alt="Xande-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alexande-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alexandre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
