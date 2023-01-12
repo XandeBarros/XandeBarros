@@ -2,13 +2,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
-
+<!---
 <div> 
   <a href="https://www.linkedin.com/in/xandebarros/"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XandeBarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandeBarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+--->
 ##
 
 - 🌱 Estudante de Engenharia Mecatrônica
